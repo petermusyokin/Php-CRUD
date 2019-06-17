@@ -1,0 +1,19 @@
+body{
+    background-image: url("resources/msc1.png");
+    background-size: cover;
+    background-position:center ;
+    color: #ff0911;
+
+
+}
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.login-left{
+    padding: 30px;
+}
+.login-right{
+    padding: 30px;
+}
